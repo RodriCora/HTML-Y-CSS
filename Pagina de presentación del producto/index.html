@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product Landing Page</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+  <!-- HEADER FIJO -->
+  <header id="header">
+    <img id="header-img" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" alt="Logo">
+
+    <!-- NAV-BAR SIEMPRE ARRIBA -->
+    <nav id="nav-bar">
+      <a class="nav-link" href="#hero">Inicio</a>
+      <a class="nav-link" href="#features">Características</a>
+      <a class="nav-link" href="#pricing">Precios</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section id="hero">
+    <h1>El mejor producto del mercado</h1>
+    <p>Suscribite para recibir novedades</p>
+
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+      <input type="email" name="email" id="email" placeholder="Ingresá tu email" required>
+      <input type="submit" id="submit" value="Suscribirme">
+    </form>
+  </section>
+
+  <!-- FEATURES -->
+  <section id="features">
+    <div class="feature">
+      <h3>🔥 Alta Durabilidad</h3>
+      <p>Construido con materiales premium.</p>
+    </div>
+
+    <div class="feature">
+      <h3>⚡ Rendimiento</h3>
+      <p>Optimizado para el mejor desempeño.</p>
+    </div>
+
+    <div class="feature">
+      <h3>🎧 Soporte 24/7</h3>
+      <p>Siempre disponibles para ayudarte.</p>
+    </div>
+  </section>
+
+  <!-- VIDEO -->
+  <section id="video-section">
+    <h2>Mirá nuestro producto en acción</h2>
+
+    <iframe
+      id="video"
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </section>
+
+  <!-- PRICING (USA FLEXBOX) -->
+  <section id="pricing">
+    <div class="product">
+      <h2>Básico</h2>
+      <p>$10/mes</p>
+      <button class="btn">Comprar</button>
+    </div>
+
+    <div class="product">
+      <h2>Estándar</h2>
+      <p>$25/mes</p>
+      <button class="btn">Comprar</button>
+    </div>
+
+    <div class="product">
+      <h2>Premium</h2>
+      <p>$50/mes</p>
+      <button class="btn">Comprar</button>
+    </div>
+  </section>
+
+</body>
+</html>
