@@ -10,15 +10,16 @@ El objetivo es practicar estructura HTML, estilos CSS y diseño básico de pági
 
 ## Proyectos incluidos
 
-- [☕ Camper Cafe](camper-cafe/)
-- [🎨 Colores y Sombras](colores-sombras/)
-- [📝 Formulario de Registro](formulario-de-registro/)
-- [🎹 Piano](piano/)
-- [📦 Presentación de Producto](presentacion-de-producto/)
-- [♿ Prueba de Accesibilidad](prueba-de-accesibilidad/)
-- [▭ Rectángulos](rectangulos/)
-- [🐱 Web Gatitos](web-gatitos/)
-- [👤 Web Personal](web-personal/)
+- [Colores y sombras](Colores-sombras/)
+- [Formulario de registro](Formulario-de-registro/)
+- [Formulario](Formulario/)
+- [Pianos](Pianos/)
+- [Presentación de producto](Presentacion-de-producto/)
+- [Prueba de accesibilidad](Prueba-de-accesibilidad/)
+- [Rectángulos](Rectangulos/)
+- [Web Café](Web-Cafe/)
+- [Web Gatos](Web-Gatos/)
+- [Web personal (Portfolio)](Web-personal/)
 
 
 Cada carpeta corresponde a un proyecto independiente.
