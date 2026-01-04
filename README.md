@@ -23,6 +23,9 @@ El objetivo es practicar estructura HTML, estilos CSS y diseño básico de pági
 
 
 Cada carpeta corresponde a un proyecto independiente.
+## Ver proyectos en funcionamiento
+
+👉 https://rodricora.github.io/HTML-Y-CSS/
 
 ## Tecnologías usadas
 
