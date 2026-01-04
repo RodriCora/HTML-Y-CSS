@@ -10,15 +10,16 @@ El objetivo es practicar estructura HTML, estilos CSS y diseño básico de pági
 
 ## Proyectos incluidos
 
-- CAMPER CAFE – Menú de café
-- Colores y sombras – Ejercicios de estilos visuales
-- Formulario – Formulario de registro
-- Página de presentación del producto – Landing page
-- Página web personal de portafolio
-- Piano – Proyecto visual con CSS
-- Prueba de accesibilidad
-- Rectángulos – Ejercicios de formas
-- Web Gatitos – Página temática
+- [☕ Camper Cafe](camper-cafe/)
+- [🎨 Colores y Sombras](colores-sombras/)
+- [📝 Formulario de Registro](formulario-de-registro/)
+- [🎹 Piano](piano/)
+- [📦 Presentación de Producto](presentacion-de-producto/)
+- [♿ Prueba de Accesibilidad](prueba-de-accesibilidad/)
+- [▭ Rectángulos](rectangulos/)
+- [🐱 Web Gatitos](web-gatitos/)
+- [👤 Web Personal](web-personal/)
+
 
 Cada carpeta corresponde a un proyecto independiente.
 
